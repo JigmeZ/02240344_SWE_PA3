@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TaskManagerApp",
+    "slug": "TaskManagerApp",
+    "version": "1.0.0",
+    "scheme": "taskmanagerapp",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"],
+    "userInterfaceStyle": "dark"
+  }
+}
